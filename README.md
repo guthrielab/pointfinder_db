@@ -5,7 +5,10 @@ The PointFinder database is a curated database of resistance causing
 chromosomal point mutations.
 
 ## Content of the repository
-_TODO_
+- [] Add Mycobacterium abscessus db
+- [] Add Mycobacterium avium db
+- [] Add Mycobacterium fortuitum db
+- [] Add Mycobacterium kansasii db
 
 ## Installation
 Clone the database
