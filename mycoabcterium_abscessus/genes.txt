@@ -1,8 +1,0 @@
-erm41
-gyrA
-gyrB
-rplC
-rplD
-rrl
-rrs
-whiB7
